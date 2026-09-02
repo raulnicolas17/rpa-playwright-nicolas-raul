@@ -1,0 +1,14 @@
+Nombre:
+Fecha:
+
+1. ¿Qué diferencia existe entre una excepción técnica y una excepción de negocio?
+
+
+2. ¿Por qué son preferibles los localizadores semánticos frente a coordenadas de pantalla?
+
+
+3. ¿Por qué expect_download() se prepara antes de hacer clic en el enlace de descarga?
+
+
+4. ¿Qué tendría que cambiar el bot para procesar una lista de matrículas?
+
