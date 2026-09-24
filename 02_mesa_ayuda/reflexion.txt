@@ -1,0 +1,17 @@
+Nombre:
+Fecha:
+
+1. ¿Qué diferencia existe entre Browser, BrowserContext y Page?
+
+
+2. ¿Por qué dos páginas abiertas en contextos diferentes pueden mantener usuarios distintos?
+
+
+3. ¿Qué información puede contener un archivo creado con storage_state() y por qué no debe publicarse?
+
+
+4. ¿Por qué las credenciales incorrectas son una excepción de negocio y no un error técnico?
+
+
+5. ¿Qué cambiaría para procesar tickets con tres perfiles distintos?
+
